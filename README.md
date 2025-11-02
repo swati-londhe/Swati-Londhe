@@ -8,10 +8,10 @@
 ---
 
 ### 💫 About Me  
-- 👩‍💻 I'm a **Python Developer** and **Data Science enthusiast** with a strong focus on **problem-solving and data analytics**.  
-- 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Plotly, and Machine Learning**.  
-- 🎯 Passionate about turning data into actionable insights through analysis and visualization.  
-- 💡 Love learning, building projects, and contributing to open-source.  
+- 👩‍💻 I'm a **Python Developer** and **Data Science enthusiast** with a strong focus on **problem-solving and analytics**.  
+- 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Plotly, Machine Learning, and Flask**.  
+- 🧠 Interested in **building data-driven applications and dashboards**.  
+- 💡 Love learning, contributing to open-source, and working on real-world datasets.  
 
 ---
 
@@ -24,8 +24,29 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
+
+### 📁 Featured Projects  
+
+#### 🩺 [Wearable Health Monitoring](https://github.com/swati-londhe/Wearble-Health-Monitoring)
+A data science project that monitors real-time health parameters using sensor data and ML models to predict health conditions.  
+**Tech Used:** Python, Pandas, Matplotlib, Machine Learning  
+
+---
+
+#### 💪 [Health Tracker](https://github.com/swati-londhe/Health-Tracker)
+A Python-based application that tracks user health metrics, analyzes data trends, and provides personalized insights.  
+**Tech Used:** Python, Flask, Pandas, Visualization  
+
+---
+
+#### 🏯 [Braj Tour (Flask App)](https://github.com/swati-londhe/Braj_Tour_FLASK)
+A Flask-based web application for exploring tourist destinations in the Braj region, integrating user-friendly UI and data management.  
+**Tech Used:** Flask, HTML, CSS, Bootstrap, Python  
 
 ---
 
