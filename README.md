@@ -76,8 +76,8 @@ A Flask-based website to explore tourist spots in the Braj region with clean UI 
 ---
 
 ## 🌐 Connect With Me  
-📧 **Email:** swatilondhe11111@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/swati-londhe  
+📧 **Email:** swatilondhe2911@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/swati-londhe-394637311/
 
 ---
 
