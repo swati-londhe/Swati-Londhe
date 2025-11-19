@@ -1,74 +1,84 @@
-<h1 align="center">Hi 👋, I'm Swati Londhe</h1>
-<h3 align="center">Python Developer | Data Science Enthusiast | Open Source Contributor</h3>
+# 👋 Hi, I'm Swati Londhe  
+**Python Developer | Data Science Enthusiast | Open Source Contributor**
 
 ---
 
-### 💫 About Me
-- 👩‍💻 I'm a **Python Developer** and **Data Science enthusiast** with a strong focus on problem-solving and analytics.  
-- 📊 Skilled in **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Plotly**, **Machine Learning**, and **Flask**.  
-- 🧠 Interested in building **data-driven applications** and **interactive dashboards**.  
-- 💡 Love learning, contributing to **open source**, and working on **real-world datasets**.  
-- 🌱 Currently exploring the **Frappe Framework** and **AI-based automation**.
+## 💫 About Me  
+- 👩‍💻 Passionate Python developer with strong problem-solving and analytical skills.  
+- 📊 Skilled in Python, Pandas, NumPy, Matplotlib, Scikit-learn, and Flask.  
+- 🧠 Exploring the **Frappe Framework**: DocTypes, Server Scripts, API, Bench, and ERPNext fundamentals.  
+- 💡 I enjoy building data-driven applications, dashboards, and automation tools.  
+- 🌱 Actively contributing to open-source and learning backend development.  
 
 ---
 
-### 🧠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 🧠 Tech Stack  
+**Languages:** Python, SQL, JavaScript (basic)  
+**Frameworks:** Flask, Frappe (learning), Streamlit  
+**Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly  
+**Tools:** Git, GitHub, VS Code, Postman, Jupyter Notebook  
+**Other:** REST APIs, Data Visualization, Linux basics  
 
 ---
 
-### 📁 Featured Projects
+## 📁 Featured Projects
 
-#### 🩺 [Wearable Health Monitoring](https://github.com/swati-londhe/Wearable-Health-Monitoring)
-> A data science project that monitors real-time health parameters using sensor data and ML models to predict health conditions.  
-> **Tech Used:** Python, Pandas, Matplotlib, Machine Learning
-
----
-
-#### 💪 [Health Tracker](https://github.com/swati-londhe/Health-Tracker)
-> A Python-based application that tracks user health metrics, analyzes data trends, and provides personalized insights.  
-> **Tech Used:** Python, Flask, Pandas, Visualization
+### 🩺 Wearable Health Monitoring (Data Science Project)
+A system to monitor real-time health parameters and predict abnormal patterns using ML models.  
+**Tech:** Python, Pandas, Scikit-learn, Matplotlib  
+🔗 *[Project Link]*
 
 ---
 
-#### 🏯 [Braj Tour (Flask App)](https://github.com/swati-londhe/Braj_Tour_FLASK)
-> A Flask-based web application for exploring tourist destinations in the Braj region, integrating user-friendly UI and data management.  
-> **Tech Used:** Flask, HTML, CSS, Bootstrap, Python
+### 💪 Health Tracker (Flask + Python)
+Tracks user metrics, analyzes trends, and displays personalized insights with charts and APIs.  
+**Tech:** Flask, Pandas, HTML/CSS, Visualization  
+🔗 *[Project Link]*
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swati-londhe&show_icons=true&theme=radical" alt="Swati's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swati-londhe&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swati-londhe&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🏯 Braj Tour – Tourism Flask App
+A Flask-based website to explore tourist spots in the Braj region with clean UI and CRUD features.  
+**Tech:** Flask, HTML, CSS, Bootstrap  
+🔗 *[Project Link]*
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/swati-londhe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:swatilondhe2911@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/swati-londhe">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## ⚙️ Frappe / ERPNext Learning  
+- Understanding DocTypes & database models  
+- Creating Frappe Apps using Bench  
+- Server Scripts & API Architecture  
+- Custom Fields, Controllers, and Routing  
+- Working with REST APIs & JSON data  
+
+*(Actively working on contributions to Frappe ecosystem.)*
 
 ---
 
-⭐️ *"Good Work. Good People." — Inspired by rtCamp’s core values.*
+## 🔧 Open Source Contributions  
+- Multiple PRs across Python and documentation repositories  
+- Contributions include:  
+  - README improvements  
+  - Typos fixes  
+  - Code cleanup  
+  - Bug fixes  
+  - Structure and formatting updates  
+
+*(More PRs coming soon!)*  
+
+---
+
+## 📊 GitHub Stats  
+![Swati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swati-londhe&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swati-londhe&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swati-londhe&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me  
+📧 **Email:** swatilondhe11111@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/swati-londhe  
+
+---
+
+⭐️ *“Good Work. Good People.”* — Inspired by rtCamp’s open-source culture.
